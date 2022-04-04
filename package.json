@@ -1,0 +1,20 @@
+{
+  "name": "zephyr-cli",
+  "description": "A command line interface for Zephyr build using Github Copiolet",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "zephyr": "./bin/index.js"
+  },
+  "scripts": {
+    "install": "npm i -g ."
+  },
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1",
+    "gamedig": "^4.0.2",
+    "nanospinner": "^1.0.0"
+  }
+}
