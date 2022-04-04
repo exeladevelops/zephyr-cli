@@ -9,11 +9,9 @@ Just run ```zephyr ``` in your favorite terminal!
 ## Intructions
 ```bash
 $ yarn install
-OR
-$ npm i
 ```
+# OR
 ```bash
-$ yarn run install
-OR
+$ npm i
 $ npm i -g .
 ```
