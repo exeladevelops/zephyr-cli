@@ -4,7 +4,7 @@
 This is a project I started to expierpment more with [GitHub Copilot](https://copilot.github.com/). The main file are 100% [GitHub Copilot](https://copilot.github.com/) suggestions with only very little modifications.
 
 # It's simple!
-Just run ```zephyr ``` in your favorite terminal!
+Just run ```zephyr``` in your favorite terminal!
 
 ## Intructions
 ```bash
